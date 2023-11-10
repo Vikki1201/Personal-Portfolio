@@ -1,0 +1,10 @@
+.container-fluid {
+    max-width: 1500px;
+    font-family: 'Lato', sans-serif;
+  }
+
+.navbar {
+    background-color: #F5F7F8;
+    color: #495E57;
+}
+
