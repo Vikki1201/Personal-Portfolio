@@ -170,3 +170,21 @@ a:hover {
     transform: rotate(360deg);
   }
 }
+
+/* ------- Footer ------- */
+
+.footer {
+  padding: 0 0 4rem 0;
+}
+
+.back-to-top {
+  opacity: 0.7;
+  font-size: 0.75rem;
+}
+
+.back-to-top:hover {
+  opacity: 1;
+  color: #000;
+  text-decoration: none;
+  
+}
